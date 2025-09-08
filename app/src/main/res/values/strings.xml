@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">basic-affirmations-cards</string>
+    <string name="affirmations_1">Everything I do today, I choose to do.</string>
+    <string name="affirmations_2">My awareness grows day by day.</string>
+    <string name="affirmations_3">I am open to the lessons that this day will teach me.</string>
+    <string name="affirmations_4">Each day, I find new reasons to be thankful and appreciative.</string>
+    <string name="affirmations_5">All is well. I have time for everything I need to do today.</string>
+
 </resources>
